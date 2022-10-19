@@ -3,7 +3,7 @@
 
 int main (void)
 {
-	std::cout << "HelloWorld!" << std::endl;
+	std::cout << "Hello VisualStudio Git!" << std::endl;
 
 	return 0 ;
 }
