@@ -5,7 +5,7 @@ int main (void)
 {
 	std::cout << "Hello GitHub World!" << std::endl;
 
-	std::cout << "Hello New Branch!" << std::endl;
+	std::cout << "New Branch Changed!" << std::endl;
 
 	return 0 ;
 }
